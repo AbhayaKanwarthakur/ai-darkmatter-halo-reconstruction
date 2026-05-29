@@ -252,4 +252,4 @@ Jaypee University of Information Technology
 
 ---
 
-⭐ If you found this project interesting, consider starring the repository.
+ If you found this project interesting, consider starring the repository.
