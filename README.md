@@ -227,7 +227,7 @@ paper/research_paper.pdf
 # Citation
 
 ```text
-Kanwar, A.
+Abhaya Kanwar.
 AI-Assisted Dark Matter Halo Morphology Reconstruction Using SPARC Galaxy Rotation Curves.
 2026.
 ```
